@@ -1,0 +1,14 @@
+{
+  "name": "gacha-randomness-simulator",
+  "version": "1.0.0",
+  "description": "Randomness simulator to determine the probability of getting identical pulls in gacha games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josef the Dreamer",
+  "license": "ISC",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
+}
